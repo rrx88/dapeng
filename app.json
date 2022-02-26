@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/ marryjone3 /vlessheroku",
-  "repository": "https://github.com/ marryjone3 /vlessheroku",
+  "website": "https://github.com/rrx88/dapeng",
+  "repository": "https://github.com/rrx88/dapeng",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
